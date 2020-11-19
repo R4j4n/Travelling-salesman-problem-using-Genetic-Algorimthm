@@ -6,7 +6,8 @@ The Travelling Salesman Problem (TSP) is the challenge of finding the shortest y
 ## steps
 1. Run train.py 
 2. Place the destination nodes using the left click on the mouse. 
-3. Press Enter to see the shortest route for every evolving DNA. 
+3. Press Enter to see the shortest route for every evolving DNA. <br>
+
 ![Alt Text](Media\GENETIC.gif) <br>
 
  
@@ -17,4 +18,5 @@ The Travelling Salesman Problem (TSP) is the challenge of finding the shortest y
 numpy
 pygame
 ```
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.https://github.com/R4j4n/Travelling-salesman-problem-using-Genetic-Algorimthm)
